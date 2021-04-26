@@ -1,4 +1,4 @@
-ar darkSwitch = document.getElementById("darkSwitch");
+ar; darkSwitch = document.getElementById("darkSwitch");
 window.addEventListener("load", function () {
   if (darkSwitch) {
     initTheme();
