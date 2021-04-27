@@ -583,8 +583,8 @@ input:checked + .slider:before {
  display: block;
  position: absolute;
  transform: translate(-55%,-60%);
- top: 55%;
- left: 60%;
+ top: 50%;
+ left: 50%;
  font-size: 20px;
  font-family: Verdana, sans-serif;
 }
