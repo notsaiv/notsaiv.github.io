@@ -582,7 +582,7 @@ input:checked + .slider:before {
  color: white;
  display: block;
  position: absolute;
- transform: translate(-40%,-70%);
+ transform: translate(-70%,-35%);
  top: 50%;
  left: 50%;
  font-size: 20px;
